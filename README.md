@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @natank
-- 👀 I’m interested in full stack development in Node, React
-- 🌱 I’m currently learning Typescript
+- 👀 I’m a full stack developer specializing in Node, React and related web technologies.
 - 📫 How to reach me natan.kamusher@gmail.com
 
 <!---
